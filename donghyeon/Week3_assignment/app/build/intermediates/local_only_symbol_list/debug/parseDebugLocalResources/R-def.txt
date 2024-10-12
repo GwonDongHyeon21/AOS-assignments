@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable number_shape
+id ca
+id eight
+id equal
+id five
+id four
+id nine
+id one
+id plus
+id result
+id seven
+id six
+id three
+id two
+id zero
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Week3_assignment
+style Theme.Week3_assignment
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gwondonghyeon/.gradle/daemon/8.7/com.example.week3_assignment.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/Users/gwondonghyeon/.gradle/daemon/8.7/com.example.week3_assignment.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.week3_assignment.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.week3_assignment.app-main-33:/layout/activity_main.xml"
+    }
+]

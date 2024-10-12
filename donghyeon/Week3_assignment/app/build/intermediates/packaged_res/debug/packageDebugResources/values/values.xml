@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Week3_assignment</string>
+    <style name="Base.Theme.Week3_assignment" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Week3_assignment" parent="Base.Theme.Week3_assignment"/>
+</resources>
